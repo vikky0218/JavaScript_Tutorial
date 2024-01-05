@@ -1,4 +1,4 @@
-let a = -13
+let a = 13
 if (a < 0) //if Condition
 {
     console.log("Entered Age is Invalid")
