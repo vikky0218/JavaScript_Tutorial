@@ -1,2 +1,3 @@
 //Arthimatics Operators
-let a = 
+let a = 40
+let b = 20
